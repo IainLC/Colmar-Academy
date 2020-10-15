@@ -4,6 +4,7 @@ This is a capstone project for the Codecademy Build a Website with HTML, CSS, an
 Name: Colmar Academy
 App link: Local Only
 This is a project to demonstrate ones ability to code using intermediate and advanced skills in HTML, CSS and Github Pages
+
 #Task 
 The objective is to demonstrate ability in create well-designed, responsive websites from scratch, while keeping projects organized with the Git workflow.
 
