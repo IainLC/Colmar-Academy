@@ -13,9 +13,11 @@ The objective is to demonstrate ability in create well-designed, responsive webs
 + Stick to the wireframe document which contains the positioning of the elements on a page without specifying any other design information.
 + Focus on the flow of a site without getting distracted with design decisions such as color and typography.
 
-Summary of stack used - why you chose the tools you did
+#Technology Summary / Stack
++ HTML
++ CSS 
 
-Functionality
+#Functionality
 This is a static github page, focusing on solid design principles.
 
 #Design
